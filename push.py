@@ -10,8 +10,6 @@ class Push:
 	def __init__(self, token, SSL = True):
 		self.token = token
 		self.SSL = SSL
-	title = 'Error from serverChecker'
-
 
 	# We create the output JSON in a separate method
 	def getJSON(self):

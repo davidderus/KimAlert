@@ -3,7 +3,9 @@ KimAlert
 
 A CLI [Kimsufi](https://www.kimsufi.com/fr/index.xml) seeker, able to notify you via push messages
 
-###Usage
+⚠️ This lib is unmaintained and contains several security vulnerabilities in its dependencies. ⚠️
+
+### Usage
 
  2. Listing all server models status 
 
